@@ -142,7 +142,7 @@ singlecolumn = true
     <div class="col-md-7">
       <div class="card-body">
         <h5 class="card-title">Evelyn Donis</h5>
-        <span class="badge bg-warning">1 cupo disponible</span>
+        <span class="badge bg-warning">5 cupos disponibles</span>
         <span class="badge bg-warning">Mentoría Grátis</span>
         <p class="card-text">
           <small>
